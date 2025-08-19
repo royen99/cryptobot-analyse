@@ -1,11 +1,11 @@
-# Cryptobot Analyser
+# Cryptobot Analyse
 
 This project is a dashboard that makes use of the price history fetched from the [TuxTrader trading bot](https://github.com/royen99/cryptobot-trader). It attempts to provide insights and analytics for cryptocurrency trading strategies.
 
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/royen99/cryptobot-analyze?logo=docker)](https://hub.docker.com/r/royen99/cryptobot-analyze)
 [![Docker Pulls](https://img.shields.io/docker/pulls/royen99/cryptobot-analyze?logo=docker)](https://hub.docker.com/r/royen99/cryptobot-analyze)
-[![CI/CD](https://github.com/royen99/cryptobot-analyze/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/royen99/cryptobot-analyze/actions/workflows/docker-publish.yml)
-[![Stars](https://img.shields.io/github/stars/royen99/cryptobot-analyze?logo=github)](https://github.com/royen99/cryptobot-analyze)
+[![CI/CD](https://github.com/royen99/cryptobot-analyse/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/royen99/cryptobot-analyse/actions/workflows/docker-publish.yml)
+[![Stars](https://img.shields.io/github/stars/royen99/cryptobot-analyse?logo=github)](https://github.com/royen99/cryptobot-analyse)
 [![Multi-Arch Support](https://img.shields.io/badge/arch-linux%2Famd64%20%7C%20linux%2Farm64-blue?logo=docker)](https://hub.docker.com/r/royen99/cryptobot-analyze/tags)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
